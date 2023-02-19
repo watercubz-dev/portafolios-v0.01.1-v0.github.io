@@ -52,6 +52,7 @@ body {
 .menu-nav {
  max-width: 1400px;
  margin: auto;
+ padding: 100%;
 }
 
 body {
@@ -66,6 +67,7 @@ body {
    background-color: rgb(75, 70, 79);
    color: white;
    padding: 18px;
+
 }
 .logo {
     color: rgb(218, 205, 21) ;
